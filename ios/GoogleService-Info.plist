@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>289975109392-919dfh05kqflkdr333b19kc9efta5c3j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.289975109392-919dfh05kqflkdr333b19kc9efta5c3j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwj9rZd715oht9uJyWpTe1S0f0uJdGPO0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>289975109392</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.atharvad.blogapp</string>
+	<key>PROJECT_ID</key>
+	<string>blogapp-f9fef</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blogapp-f9fef.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:289975109392:ios:bb52374d8028a59fce8795</string>
+	<key>DATABASE_URL</key>
+	<string>https://blogapp-f9fef.firebaseio.com</string>
+</dict>
+</plist>

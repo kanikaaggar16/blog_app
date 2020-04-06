@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "289975109392",
+    "firebase_url": "https://blogapp-f9fef.firebaseio.com",
+    "project_id": "blogapp-f9fef",
+    "storage_bucket": "blogapp-f9fef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289975109392:android:735f8e233aff6b18ce8795",
+        "android_client_info": {
+          "package_name": "com.atharvad.blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289975109392-j1gru560d7mndjk2m0uh054dgc27t7dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh3wIk6bGR-zZJvBqtQ032fetjsH8Ve2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289975109392-j1gru560d7mndjk2m0uh054dgc27t7dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
